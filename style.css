@@ -1,7 +1,7 @@
 #wrapper {
 
     width: 1000px;
-    color: ;
+    color: black;
     background-color: #e9e9e9;
     top: -1px;
     padding: 50px;
@@ -42,4 +42,26 @@ body {
 code {
     color: #CE234C;
     background-color: lightgray
+}
+.snippet {
+    background: lightgray;
+}
+
+#font-practice{
+    color: darkgreen;
+    font-style: italic;
+    font-size: 17px;
+}
+a:link {
+    color: green
+    
+}
+a:hover {
+    color:red;
+}
+a:visted {
+    color: black;
+}
+a:active {
+    color: blue ;
 }
